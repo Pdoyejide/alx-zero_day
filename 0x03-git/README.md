@@ -1,1 +1,1 @@
-This is the first directory of git in the zero alx project
+This is the readme file of 0x03-git
